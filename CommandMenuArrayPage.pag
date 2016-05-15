@@ -1,0 +1,18 @@
+VERSION 5.00
+Begin VB.PropertyPage CommandMenuArrayPage 
+   Caption         =   "CommandMenuArrayPage"
+   ClientHeight    =   3495
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   5925
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   3495
+   ScaleWidth      =   5925
+End
+Attribute VB_Name = "CommandMenuArrayPage"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = True
+Option Explicit
+
